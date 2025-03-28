@@ -1,0 +1,15 @@
+﻿  Main.C
+C:\Users\levdk\source\repos\Dll injector\Main.C(34,2): warning C4083: expected ')'; found identifier 'C6387'
+C:\Users\levdk\source\repos\Dll injector\Main.C(42,104): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\levdk\source\repos\Dll injector\Main.C(42,104): warning C4024: 'CreateFileA': different types for formal and actual parameter 6
+C:\Users\levdk\source\repos\Dll injector\Main.C(46,3): warning C4047: 'return': 'file_info *' differs in levels of indirection from 'int'
+C:\Users\levdk\source\repos\Dll injector\Main.C(57,35): warning C4090: '=': different 'const' qualifiers
+C:\Users\levdk\source\repos\Dll injector\Main.C(82,2): warning C4083: expected ')'; found identifier 'C6031'
+C:\Users\levdk\source\repos\Dll injector\Main.C(83,56): warning C4033: 'printBaseplate' must return a value
+C:\Users\levdk\source\repos\Dll injector\Main.C(88,3): warning C4047: 'return': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\levdk\source\repos\Dll injector\Main.C(95,62): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\levdk\source\repos\Dll injector\Main.C(95,62): warning C4024: 'CreateToolhelp32Snapshot': different types for formal and actual parameter 2
+C:\Users\levdk\source\repos\Dll injector\Main.C(92,1): warning C4715: 'printBaseplate': not all control paths return a value
+  Dll injector.vcxproj -> C:\Users\levdk\source\repos\Dll injector\Debug\Dll injector.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
